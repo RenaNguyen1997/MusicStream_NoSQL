@@ -1,0 +1,35 @@
+{
+  "_id": "artist_001",
+  "name": "Yang Yoseob",
+  "biography": "South Korean Singer, Beast/Highlight main vocal, and producer.",
+  "birth_date": "1990-01-05",
+  "albums": [
+    {
+      "album_id": "album_001",
+      "name": "Chocolate Box",
+      "release_date": "2021-09-01",
+      "songs": [
+        {
+          "song_id": "001",
+          "name": "Brain",
+          "duration": "03:29"
+        },
+        {
+          "song_id": "002",
+          "name": "Chocolate Box",
+          "duration": "03:49"
+        },
+        {
+          "song_id": "003",
+          "name": "Slow Luv",
+          "duration": "03:31"
+        },
+        {
+          "song_id": "004",
+          "name": "Dry Flower",
+          "duration": "03:04"
+        }
+      ]
+    }
+  ]
+}
