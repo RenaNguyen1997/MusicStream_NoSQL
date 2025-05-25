@@ -10,22 +10,22 @@
       "release_date": "2021-09-01",
       "songs": [
         {
-          "song_id": "001",
+          "song_id": "yys001",
           "name": "Brain",
           "duration": "03:29"
         },
         {
-          "song_id": "002",
+          "song_id": "yys002",
           "name": "Chocolate Box",
           "duration": "03:49"
         },
         {
-          "song_id": "003",
+          "song_id": "yys003",
           "name": "Slow Luv",
           "duration": "03:31"
         },
         {
-          "song_id": "004",
+          "song_id": "yys004",
           "name": "Dry Flower",
           "duration": "03:04"
         }
