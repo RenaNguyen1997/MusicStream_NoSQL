@@ -18,16 +18,42 @@
           "song_id": "yys002",
           "name": "Chocolate Box",
           "duration": "03:49"
-        },
+        }
+      },
+      {
+      "album_id": "yysc_002",
+      "name": "The first Collage",
+      "release_date": "2012-11-26",
+      "songs": [        
         {
           "song_id": "yys003",
-          "name": "Slow Luv",
-          "duration": "03:31"
+          "name": "Caffein",
+          "duration": "03:36"
         },
         {
           "song_id": "yys004",
-          "name": "Dry Flower",
-          "duration": "03:04"
+          "name": "But I",
+          "duration": "04:07"
+        }
+      ]
+    }
+  ]
+}, 
+{
+  "_id": "artist_002",
+  "name": "Yong Junhyung",
+  "biography": "South Korean Singer, Beast/Highlight ex-member, and producer.",
+  "birth_date": "1989-12-19",
+  "albums": [
+    {
+      "album_id": "yjhc_001",
+      "name": "Goodbye 20's",
+      "release_date": "2018-05-09",
+      "songs": [
+        {
+          "song_id": "yyh001",
+          "name": "Go away",
+          "duration": "03:26"
         }
       ]
     }
